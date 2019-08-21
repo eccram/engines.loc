@@ -1,0 +1,27 @@
+* {text-decoration: none; font-size: 20px;}
+
+html {background-color: #a4edbe;}
+
+#header {color: red;}
+
+#header_1 {color: green;}
+
+h3.style {color: yellow;}
+
+p.style {background-color: blue;}
+
+p i {color: #ca5597;}
+
+p#example::first-letter {color: red;}
+
+p#example::first-line {color: orange;}
+
+p:hover {background-color: red;}
+
+.href {color: #FF7E00;}
+
+.href:hover {color: #000CFF;}
+
+.href:active {color: #12FF00;}
+
+.href:visited {color: #FF007E;}
